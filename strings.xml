@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">أموالي</string>
+    <string name="income">الدخل</string><string name="spent">المصروف</string>
+    <string name="saved">المُدَّخر</string><string name="net">الصافي</string>
+    <string name="insights">توصيات ذكية</string><string name="upcoming_bills">الفواتير القادمة</string>
+    <string name="amount">المبلغ</string><string name="note">ملاحظة</string><string name="save">حفظ</string>
+    <string name="ins_low_savings">نسبة ادخارك %1$d%%. استهدف 10–20%% على الأقل بالادخار أولًا عند وصول الدخل.</string>
+    <string name="ins_overspend">تجاوزت دخلك بمقدار %1$s هذا الشهر. راجع المصروفات المتغيرة.</string>
+    <string name="ins_variable">ارتفعت المصروفات المتغيرة %1$d%% عن الشهر الماضي.</string>
+    <string name="ins_obligations">الالتزامات تستهلك %1$d%% من دخلك. فكّر في إعادة التفاوض أو تقليل بعضها.</string>
+    <string name="ins_ok">أنت على المسار الصحيح هذا الشهر. واصل.</string>
+</resources>
